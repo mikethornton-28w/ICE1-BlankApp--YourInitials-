@@ -1,11 +1,17 @@
-# Sample Snack app
+# My ReadMe App by Mukhesi Tshivhase
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+My experience with this setup proved challenging but I was able to manage to get through and got my setup to work.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+Here are my steps to how I achieved this:
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+1. Enable the Text Function at the Import.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+2. Enable the text by adding these <Text> and </Text> to the export default function app.
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+3. Write out the words to answer the instructions.
+
+4. Check to see if the app is running with Expo Go
+
+Here are the screenshots as proof that it works:
+
+![Screenshot_20250731_192532_Expo Go](https://github.com/user-attachments/assets/04e44511-9d78-4993-980c-7ee9e77b6dc6)
